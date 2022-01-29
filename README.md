@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software developer based in New York.
 
-- 🔭 I’m currently working on building my portfolio website;
+- 🔭 I’m currently working on updating my portfolio website;
 - 🌱 I’m currently learning my way around a Debian distro;
 - 💡 Interested in learning React Native, Typescript, NextJS and, ElasticSearch;
 - 💬 Ask me about React, Express, Sequelize, Postgres;
