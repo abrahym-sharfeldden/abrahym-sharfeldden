@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 I'm a software developer based in New York.
 
-- 🔭 I’m currently working on updating my portfolio website;
-- 🌱 I’m currently learning my way around a Debian distro;
-- 💡 Interested in learning React Native, Typescript, NextJS and, ElasticSearch;
-- 💬 Ask me about React, Express, Sequelize, Postgres;
-- 📫 How to reach me: My soon to be made portfolio website's contact page;
-- ⚡ Fun fact: I love cooking and engineering, separately;
-- 😄 Pronouns: he/him;
+- 🔭 I’m currently working on updating my portfolio website
+- 🌱 I’m currently learning my way around a Debian distro
+- 💡 Interested in learning React Native, Typescript, NextJS and, ElasticSearch
+- 💬 Ask me about React, Express, Sequelize, Postgres
+- 📫 How to reach me: My soon to be made portfolio website's contact page
+- ⚡ Fun fact: I love cooking and engineering, separately
+- 😄 Pronouns: he/him
 
 ### 🛠️ Languages and Tools
 <a href="https://javascript.com/" title="Javascript" target="_blank"><img src="./images/js.svg" width="50" alt="Javascript"></a> &nbsp;
