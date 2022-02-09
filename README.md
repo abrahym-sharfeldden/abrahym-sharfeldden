@@ -21,5 +21,5 @@ I'm a software developer based in New York.
 
 ### :octocat: Github Stats
 
-![Abrahym's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahym-sharfeldden&show_icons=true&theme=github_dark) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=github_dark)](https://github.com/abrahym-sharfeldden)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrahym-sharfeldden&theme=github_dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
