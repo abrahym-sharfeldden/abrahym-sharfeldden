@@ -3,9 +3,9 @@
 I'm a software developer based in New York.
 
 -   🔭 Currently working on updating my portfolio website
--   🌱 Currently learning my way around a Debian distro
--   💡 Interested in learning Webpack, React Native, Typescript, NextJS and, ElasticSearch
--   💬 Ask me about React, Express, Sequelize, Postgres
+-   🌱 Currently learning Typescript & Webpack
+-   💡 Interested in learning React Native, NextJS and, ElasticSearch
+-   💬 Ask me about the PERN stack and Databases
 -   📫 How to reach me: My soon to be made portfolio website's contact page
 -   ⚡ Fun fact: I love cooking and engineering, separately
 -   😄 Pronouns: he/him
