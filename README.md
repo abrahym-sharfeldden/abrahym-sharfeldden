@@ -2,10 +2,10 @@
 
 I'm a software developer based in New York.
 
--   🔭 Currently working on updating my portfolio website
+-   🔭 Currently working on redesigning [pantry-app](https://pantry.abrahym.dev)
 -   🌱 Currently learning Typescript & Webpack
 -   💡 Interested in learning React Native, NextJS and, ElasticSearch
--   💬 Ask me about the PERN stack and Databases
+-   💬 Ask me about the PERN stack and Database Design
 -   📫 How to reach me: My soon to be made portfolio website's contact page
 -   ⚡ Fun fact: I love cooking and engineering, separately
 -   😄 Pronouns: he/him
