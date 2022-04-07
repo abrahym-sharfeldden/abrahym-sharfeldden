@@ -2,7 +2,7 @@
 
 I'm a software developer based in New York.
 
--   🔭 Currently working on redesigning [pantry-app](https://pantry.abrahym.dev)
+-   🔭 Currently working on redesigning <a href="https://pantry.abrahym.dev" title="Pantry App" target="_blank">pantry-app</a> &nbsp;
 -   🌱 Currently learning Typescript & Webpack
 -   💡 Interested in learning React Native, NextJS and, ElasticSearch
 -   💬 Ask me about the PERN stack and Database Design
