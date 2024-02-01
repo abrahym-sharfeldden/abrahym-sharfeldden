@@ -1,20 +1,37 @@
-### Hi there, I'm Abrahym 👋
+## Hi there, I'm Abrahym 👋
 
-I'm a software developer based in New York.
+I'm a passionate Software Engineer with a strong background in Front End Development. 
 
--   🔭 Currently working on redesigning <a href="https://pantry.abrahym.dev" title="Pantry App" target="_blank">pantry-app</a> &nbsp;
--   🌱 Currently learning Typescript & Webpack
--   💡 Interested in learning React Native, NextJS and, ElasticSearch
--   💬 Ask me about the PERN stack and Database Design
--   📫 How to reach me: My soon to be made portfolio website's contact page
--   ⚡ Fun fact: I love cooking and engineering, separately
--   😄 Pronouns: he/him
+- 🌐 Check out my website: [abrahym.dev](https://abrahym.dev)
+- 🎓 Studied Computer Science at CUNY - Brooklyn College
 
-### 🛠️ Languages and Tools
+## 🔧 Skills
 
-<a href="https://javascript.com/" title="Javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" alt="Javascript"></a> &nbsp;
-<a href="https://reactjs.org/" title="React" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="React"></a> &nbsp;
-<a href="https://expressjs.com/" title="Express" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" alt="Express"></a> &nbsp;
-<a href="https://sequelize.org/" title="Sequelize" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" width="40" alt="Sequelize"></a> &nbsp;
-<a href="https://nodejs.org/en/" title="Node" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" alt="React"></a> &nbsp;
-<a href="https://postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" alt="PostgreSQL"></a> &nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-0066CC?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## ⚒️ Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahym-sharfeldden&show_icons=true&hide=contribs,prs&theme=dark)
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=abrahym-sharfeldden&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=dark)
+
+## Fun Facts
+
+- 🎨 I love [Hobbies/Interests]
+- 💬 Favorite Quote: "[Your Favorite Quote]"
+
+Thanks for stopping by! 😊
