@@ -18,8 +18,3 @@ I'm a software developer based in New York.
 <a href="https://sequelize.org/" title="Sequelize" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" width="40" alt="Sequelize"></a> &nbsp;
 <a href="https://nodejs.org/en/" title="Node" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" alt="React"></a> &nbsp;
 <a href="https://postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" alt="PostgreSQL"></a> &nbsp;
-
-### :octocat: Github Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abrahym-sharfeldden&theme=dark)](https://git.io/streak-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
