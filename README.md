@@ -29,9 +29,4 @@ I'm a passionate Software Engineer with a strong background in Front End Develop
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=dark)
 
-## Fun Facts
-
-- 🎨 I love [Hobbies/Interests]
-- 💬 Favorite Quote: "[Your Favorite Quote]"
-
 Thanks for stopping by! 😊
