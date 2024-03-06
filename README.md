@@ -21,12 +21,4 @@ I'm a passionate Software Engineer with a strong background in Front End Develop
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## ⚒️ Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrahym-sharfeldden&show_icons=true&hide=contribs,prs&theme=dark)
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=abrahym-sharfeldden&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahym-sharfeldden&layout=compact&theme=dark)
-
 Thanks for stopping by! 😊
